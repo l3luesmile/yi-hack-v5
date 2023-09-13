@@ -62,6 +62,15 @@ Currently this project supports the following cameras:
 - Yi 1080p Dome - confirmed; however, I have no device to test
 - Yi 1080p Cloud Dome - confirmed; however, I have no device to test
 - Yi 1080p Outdoor - confirmed; however, I have no device to test
+- 
+วิธีติดตั้ง
+1.เตรียม SD CARD ที่ฟอร์แมตแล้ว FAT32
+2.โหลดไฟล์ rootfs_yxx และ home_yxx ลงใน root SDCARD (โหลดได้จาก Version 0.3.8)
+3.จากนั้นถอดปลั๊กกล้องก่อนและใส่ SDCARD แล้วเสียบปลั็ก รอประมาณ 2 นาที
+4.โหลด Version ล่าสุดลง SD Card
+5.ถอดไฟกล้อง
+6.ใส่ Sd card และเสียบไฟ
+7.เข้าด้วย http://IP_COM
 
 ## Getting Started
 1. Check that you have a correct Xiaomi Yi camera. (see the section above)
